@@ -1,0 +1,30 @@
+.navContainer{
+    background-color: red;
+    width:100%;
+   
+}
+.navContainerDiv{
+    width:20%;
+    display:inline-block;
+    background-color: cyan;
+    padding:10px;
+    margin:20px;
+    border-radius: 50px 50px 50px 50px;
+    cursor: pointer;
+}
+
+.contentsDivClass{
+    margin-top: 30px;
+}
+.contentDivClassPage1{
+    height: 20px;
+}
+.contentDivClassPage2{
+    height: 20px;
+}
+.contentDivClassPage3{
+    height: 20px;
+}
+.contentDivClassPage4{ 
+    height: 20px;
+}
